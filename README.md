@@ -2,21 +2,21 @@
 
 1. initialise a git repository : git init
 
-2. add files to be committed : git add . or git add (the name of the file)
+2. add files to be committed : git add . or git add (file name)
 
 3. commit files to git : git commit -m"add a message"
 
-4. Add a remote repository url :
+4. Add a remote repository url : git push -u git clone (add a location)
 
 5. Create a branch : git checkout -b (add a name)
 
-6. List branch :
+6. List branch : git branch
 
 7. Switch to a branch : git checkout (branch name)
 
-8. Delete a branch :
+8. Delete a branch : git branch -d (add branch name)
 
-9. Get updates from a remote repository :
+9. Get updates from a remote repository : git merge
 
 10. Get and Apply updates from a remote repository :
 
