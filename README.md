@@ -18,8 +18,8 @@
 
 9. Get updates from a remote repository : git fetch [name_of_origin] [name_of_remote_branch]
 
-10. Get and Apply updates from a remote repository : git pull [name_of_origin] [name_or_remote_branch]
+10. Get and Apply updates from a remote repository : git pull [name_of_origin] [name_of_remote_branch]
 
-11. Send updates to a remote repository : git push [name_of_origin] [name_or_local_branch]
+11. Send updates to a remote repository : git push [name_of_origin] [name_of_local_branch]
 
 12. command to download a remote repository to your computer : git clone git@github.com:meyangs/demo-repo3.git (input your ssh public key)
